@@ -1,0 +1,12 @@
+[
+  {
+    "id": 2000,
+    "username": "MashaEgorova",
+    "firstName": "Masha",
+    "lastName": "Egorova",
+    "email": "123masha@mail.ru",
+    "password": "poiuyt",
+    "phone": "+79882221144",
+    "userStatus": 1
+  }
+]
